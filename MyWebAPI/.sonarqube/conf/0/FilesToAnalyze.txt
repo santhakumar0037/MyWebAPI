@@ -1,0 +1,13 @@
+﻿C:\Projects\MyWebAPI\MyWebAPI\Controllers\WeatherForecastController.cs
+C:\Projects\MyWebAPI\MyWebAPI\Program.cs
+C:\Projects\MyWebAPI\MyWebAPI\WeatherForecast.cs
+C:\Projects\MyWebAPI\MyWebAPI\obj\Debug\net6.0\MyWebAPI.GlobalUsings.g.cs
+C:\Projects\MyWebAPI\MyWebAPI\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Projects\MyWebAPI\MyWebAPI\obj\Debug\net6.0\MyWebAPI.AssemblyInfo.cs
+C:\Projects\MyWebAPI\MyWebAPI\obj\Debug\net6.0\MyWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\MyWebAPI\MyWebAPI\appsettings.Development.json
+C:\Projects\MyWebAPI\MyWebAPI\appsettings.json
+C:\Projects\MyWebAPI\MyWebAPI\.dockerignore.txt
+C:\Projects\MyWebAPI\MyWebAPI\Dockerfile
+C:\Projects\MyWebAPI\MyWebAPI\Properties\launchSettings.json
+C:\Projects\MyWebAPI\.dockerignore
